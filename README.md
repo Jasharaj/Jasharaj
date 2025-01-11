@@ -36,25 +36,17 @@
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
 
-### Concepts and Skills
-![Object Oriented](https://img.shields.io/badge/-OOP-00599C?style=flat-square)
-![Data Structures](https://img.shields.io/badge/-Data_Structures-00599C?style=flat-square)
-![Programming](https://img.shields.io/badge/-Programming-00599C?style=flat-square)
-
 ---
 
 ## 🌟 Projects
 ### [Medicare](https://github.com/Jasharaj/Medicare-Frontend) | [Live Demo](https://medicare-frontend-two.vercel.app/)
 A healthcare platform for doctors and patients.
-- 🛠 **Stack:** React, Tailwind CSS, MongoDB, Express, Stripe
 
 ### [Mayfair](https://github.com/Jasharaj/HotelBooking) | [Live Demo](https://hotel-booking-phi-ten.vercel.app/)
 Dynamic hotel booking website with seamless UX.
-- 🛠 **Stack:** React, Tailwind CSS, Appwrite
 
 ### [Blogify](https://github.com/Jasharaj/Blogify) | [Live Demo](https://blogify-fawn.vercel.app/)
 A blog application for managing posts with real-time sync.
-- 🛠 **Stack:** React, Tailwind CSS, Appwrite
 
 ---
 
