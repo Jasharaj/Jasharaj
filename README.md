@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jasharaj Mallick!
 
-🚀 **Aspiring Full-Stack Developer** | 🎓 B.Tech @ NIT Rourkela (2022-2026)
+🚀 **Full-Stack Developer** | 🎓 B.Tech @ NIT Rourkela (2022-2026)
 
 ---
 
